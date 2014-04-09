@@ -1,4 +1,4 @@
-name              "liquidsoap-cookbook"
+name              "liquidsoap"
 maintainer        "Tony Miller"
 maintainer_email  "mcfiredrill@gmail.com"
 description       "Installs liquidsoap and all ocaml dependencies"
